@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\techtest2\techtest2\bin\Debug\netcoreapp2.1\techtest2.deps.json
+C:\Users\User\source\repos\techtest2\techtest2\bin\Debug\netcoreapp2.1\techtest2.runtimeconfig.json
+C:\Users\User\source\repos\techtest2\techtest2\bin\Debug\netcoreapp2.1\techtest2.runtimeconfig.dev.json
+C:\Users\User\source\repos\techtest2\techtest2\bin\Debug\netcoreapp2.1\techtest2.dll
+C:\Users\User\source\repos\techtest2\techtest2\bin\Debug\netcoreapp2.1\techtest2.pdb
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.AssemblyInfo.cs
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.dll
+C:\Users\User\source\repos\techtest2\techtest2\obj\Debug\netcoreapp2.1\techtest2.pdb
